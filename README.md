@@ -9,6 +9,9 @@
 ### Control Flow Graph
 ![UntitledDiagram](https://user-images.githubusercontent.com/63502120/84577128-efaf0080-adb9-11ea-8911-a7c4075cd1bb.png)
 
+### Функција:
+![Screenshot_1](https://user-images.githubusercontent.com/63502120/84577165-2e44bb00-adba-11ea-921c-b55e8917d49d.png)
+
 ### Every path критериум тестови: 
 
 EVERY PATH: 
