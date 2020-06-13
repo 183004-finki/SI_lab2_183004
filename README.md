@@ -7,7 +7,7 @@
 Јас ја добив групата на код 4
 
 ### Control Flow Graph
-<img src="C:\Users\sunje\Desktop\UntitledDiagram.png">
+![UntitledDiagram](https://user-images.githubusercontent.com/63502120/84577128-efaf0080-adb9-11ea-8911-a7c4075cd1bb.png)
 
 ### Every path критериум тестови: 
 
